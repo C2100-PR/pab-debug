@@ -1,0 +1,7 @@
+{
+  "specialChars": "Test: é, 漢字, 🌟",
+  "numbers": [1, 2.5, -3.14],
+  "nested": {
+    "array": ["a", "b", "c"]
+  }
+}
